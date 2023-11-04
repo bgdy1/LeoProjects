@@ -1,0 +1,1 @@
+room_goto(Gameover_room_2);

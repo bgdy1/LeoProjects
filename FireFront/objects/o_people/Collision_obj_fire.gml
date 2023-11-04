@@ -1,0 +1,1 @@
+p_health = p_health -1;
