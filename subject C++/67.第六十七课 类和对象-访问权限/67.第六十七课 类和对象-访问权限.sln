@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "67.第六十七课 类和对象-访问权限", "67.第六十七课 类和对象-访问权限\67.第六十七课 类和对象-访问权限.vcxproj", "{6598526C-795C-488A-A26D-8D11C10E1EAD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6598526C-795C-488A-A26D-8D11C10E1EAD}.Debug|x64.ActiveCfg = Debug|x64
+		{6598526C-795C-488A-A26D-8D11C10E1EAD}.Debug|x64.Build.0 = Debug|x64
+		{6598526C-795C-488A-A26D-8D11C10E1EAD}.Debug|x86.ActiveCfg = Debug|Win32
+		{6598526C-795C-488A-A26D-8D11C10E1EAD}.Debug|x86.Build.0 = Debug|Win32
+		{6598526C-795C-488A-A26D-8D11C10E1EAD}.Release|x64.ActiveCfg = Release|x64
+		{6598526C-795C-488A-A26D-8D11C10E1EAD}.Release|x64.Build.0 = Release|x64
+		{6598526C-795C-488A-A26D-8D11C10E1EAD}.Release|x86.ActiveCfg = Release|Win32
+		{6598526C-795C-488A-A26D-8D11C10E1EAD}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C82EA997-46C1-4113-BDD4-7742216B7E2E}
+	EndGlobalSection
+EndGlobal

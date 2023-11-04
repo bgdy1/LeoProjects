@@ -1,0 +1,3 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8028: 中间目录(x64\Debug\)包含从另一个项目(102.第一百二十课 文本文件-写文件.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  文本文件.cpp
+  102.第一百二十课 文本文件-写文件.vcxproj -> D:\subject C++\102.第一百零二课 文本文件-写文件\x64\Debug\102.第一百二十课 文本文件.exe

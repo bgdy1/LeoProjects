@@ -1,0 +1,3 @@
+﻿  string-字串获取.cpp
+D:\subject C++\126.string-字串获取\126.string-字串获取\string-字串获取.cpp(20,27): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  126.string-字串获取.vcxproj -> D:\subject C++\126.string-字串获取\x64\Debug\126.string-字串获取.exe

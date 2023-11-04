@@ -1,0 +1,9 @@
+﻿  workerManager.cpp
+  职工管理系统.cpp
+x64\Release\manager.obj : warning LNK4042: 对象被多次指定；已忽略多余的指定
+  正在生成代码
+  13 of 214 functions ( 6.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    41 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  104.第一百零四课 案例-职工管理系统.vcxproj -> D:\subject C++\104.第一百零四课 案例-职工管理系统\x64\Release\104.第一百零四课 案例-职工管理系统.exe

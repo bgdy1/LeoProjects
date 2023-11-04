@@ -1,0 +1,3 @@
+﻿  main.cpp
+D:\subject C++\补课2 trycatch异常处理(easy version)\131.第一百三十一课 trycatch异常处理(easy version)\main.cpp(14,12): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+  131.第一百三十一课 trycatch异常处理(easy version).vcxproj -> D:\subject C++\补课2 trycatch异常处理(easy version)\x64\Debug\131.第一百三十一课 trycatch异常处理(easy version).exe
